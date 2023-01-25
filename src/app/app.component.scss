@@ -1,0 +1,19 @@
+.board {
+  display: flex;
+}
+
+.todo {
+  width: 30%;
+}
+
+.in-progress {
+  width: 30%;
+}
+
+.done {
+  width: 30%;
+}
+
+.inline {
+  display: flex;
+}
